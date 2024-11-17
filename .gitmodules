@@ -4,3 +4,8 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:haiphamcoder/classroom-equipment-tracking-system-backend.git
+
+# Clone the repository
+# git clone --recurse-submodules -j8 git@github.com:haiphamcoder/classroom-equipment-tracking-system.git
+# Pull the latest changes
+# git submodule update --recursive --remote

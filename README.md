@@ -16,9 +16,9 @@ and functional when needed.
 
 For any questions, feedback or contributions, please contact us at:
 
-| No. | Name              | ID       | Email                          |
-|-----|-------------------|----------|--------------------------------|
-| 1   | Phạm Ngọc Hải     | 20207601 | hai.pn207601@sis.hust.edu.vn   |
-| 2   | Nguyễn Thành Công | 20207588 | cong.nt207588@sis.hust.edu.vn  |
-| 3   | Đỗ Trung Hiếu     | 20207604 | hieu.dt207604@sis.hust.edu.vn  |
-| 4   | Nguyễn Viết Thành | 20207632 | thanh.nv207632@sis.hust.edu.vn |
+| No. | Name              | ID       | Email                            |
+|-----|-------------------|----------|----------------------------------|
+| 1   | Phạm Ngọc Hải     | 20207601 | <hai.pn207601@sis.hust.edu.vn>   |
+| 2   | Nguyễn Thành Công | 20207588 | <cong.nt207588@sis.hust.edu.vn>  |
+| 3   | Đỗ Trung Hiếu     | 20207604 | <hieu.dt207604@sis.hust.edu.vn>  |
+| 4   | Nguyễn Viết Thành | 20207632 | <thanh.nv207632@sis.hust.edu.vn> |
